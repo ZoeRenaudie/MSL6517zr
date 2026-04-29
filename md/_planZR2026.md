@@ -27,9 +27,18 @@ Orga du cours :
 ## Séance 3 : Inventaire et cataloguage
 - Exercice en cours : Faire un chantier des collections, récolement et inventaire
 
+ajouter https://mfk.rechercheonline.ch/fr/about#info
+la kunstalle de bern https://archiv.kunsthalle-bern.ch/en/search?people_all=5242
+catalogue :https://digital.skkg.ch/de/intro
+
+
 ## Séance 4 : Interfaces publiques et catalogues
 Mieux présenter ce qu'est une donn.es d'inventaire, de catalogage, une données pour le public. 
 Formation recherche
+
+https://acervos-digitais.github.io/acervos-interface/pt/
+https://acervos-digitais.github.io/acervos-interface/pt/
+par couleur
 
 ## Séance 5 : Données et métadonnées
 - Contenu des données et métadonnées
@@ -53,7 +62,10 @@ Exercice Open Refine : jeu de données exposition MAC au lieu de artiste ? Ou je
 
 Exercice : OpenRefine : prendre le jeu de données d'Ad Mare de mona. 
 
+https://oa2ch.gitbook.io/risk-management
+
 ### Séance 8 : Modélisation des données
+
 - présentation des 4 modèles
 - Le choix du système
 
